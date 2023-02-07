@@ -2,14 +2,14 @@
   "name": "cocktails-app",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dmromaniv.github.io/cocktails-app",
+  "homepage": "https://lordlir.github.io/team-project-coctails",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /cocktails-app/"
+    "build": "parcel build src/*.html --public-url /team-project-coctails/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmromaniv/cocktails-app.git"
+    "url": "git+https://github.com/lordlir/team-project-coctails"
   },
   "keywords": [],
   "author": "",
